@@ -12,7 +12,7 @@ Ejecuta la aplicación en modo de desarrollo.
 Abra http://localhost:3000 para verlo en su navegador.
 
 Se adjunta imagen para que lo puedan validar y si se desea realizar los respectivos cambios en consola 
-![image](https://github.com/user-attachments/assets/2725ad09-56db-4bf7-87ce-39e52957b841)
+![image](https://github.com/user-attachments/assets/238a98a4-df48-430b-a5a1-96270bcf66ea)
 
 ### `npm test`
 
