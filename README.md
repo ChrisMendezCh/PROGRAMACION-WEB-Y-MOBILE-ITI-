@@ -2,7 +2,7 @@
 
 Este examen se realizó en función del examen parcial de la semana 4
 
-## Available Scripts
+## Descripción
 
 Este proyecto se encuentra funcionando correctamente
 
@@ -16,50 +16,45 @@ Se adjunta imagen para que lo puedan validar y si se desea realizar los respecti
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila la aplicación para producción en la carpeta.
+Agrupa correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.build
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+La compilación se minimiza y los nombres de archivo incluyen los hashes.
+¡Su aplicación está lista para ser implementada!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Consulte la sección sobre la implementación para obtener más información.
 
-### `npm run eject`
+### `Descripción del examen`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Se realizó de la siguiente manera: 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Paso 1: Crear un nuevo proyecto en WebStorm
+Abre WebStorm.
+Ve a File > New > Project.
+Selecciona React App en la lista de plantillas.
+Dale un nombre al proyecto, por ejemplo, crud-app, y selecciona una ubicación.
+Haz clic en Create. Esto generará un proyecto React utilizando create-react-app.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Paso 2 
+Ejecutamos en la terminal npm start y se nos desplega el localhost:3000
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Paso 3
+Componentes a usar.
+PostList.js (para leer los datos).
+CreatePost.js (para crear nuevos datos).
+UpdatePost.js (para actualizar datos).
+DeletePost.js (para eliminar datos).
 
-## Learn More
+Como podrán validar en el repositorio se encuentra todo lo demas de igual manera adjunto imagen para que lo puedan verificar.
+![image](https://github.com/user-attachments/assets/5fe10471-3d56-4869-b65a-7adf5b766343)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://github.com/user-attachments/assets/30e95b79-81d6-46ff-b75d-a96969457505)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/user-attachments/assets/0b390a6c-c16e-419a-8673-5dcad56c4448)
 
-### Code Splitting
+Como podran validar en la imagen se utilizó css para una mejor presentación visual de los botones.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Gracias.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
