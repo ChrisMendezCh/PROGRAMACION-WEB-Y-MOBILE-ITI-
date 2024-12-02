@@ -11,8 +11,8 @@ Este proyecto se encuentra funcionando correctamente
 Ejecuta la aplicación en modo de desarrollo.
 Abra http://localhost:3000 para verlo en su navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Se adjunta imagen para que lo puedan validar y si se desea realizar los respectivos cambios en consola 
+![image](https://github.com/user-attachments/assets/2725ad09-56db-4bf7-87ce-39e52957b841)
 
 ### `npm test`
 
