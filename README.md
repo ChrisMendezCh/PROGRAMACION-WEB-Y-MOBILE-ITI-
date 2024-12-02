@@ -14,11 +14,6 @@ Abra http://localhost:3000 para verlo en su navegador.
 Se adjunta imagen para que lo puedan validar y si se desea realizar los respectivos cambios en consola 
 ![image](https://github.com/user-attachments/assets/238a98a4-df48-430b-a5a1-96270bcf66ea)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
